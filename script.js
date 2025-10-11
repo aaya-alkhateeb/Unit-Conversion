@@ -65,6 +65,7 @@ function validateNumberInput(input){
         inputErrMsgEl.textContent = "";
     }
 
+    value = Number(value.toFixed(3));
     input.value = value;
 
     return value;
