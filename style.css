@@ -64,6 +64,7 @@ button.white-back-btn:active {
     flex-direction: column;
     justify-content: space-around;
     padding: 25px 15px ;
+    min-width: fit-content;
     color: #353535;
 }
 
@@ -72,6 +73,8 @@ button.white-back-btn:active {
     margin: 10px 5px;
     border-radius: 5px;
     padding: 5px;
+    text-wrap: nowrap;
+    min-width: fit-content;
 }
 
 .result-title{
