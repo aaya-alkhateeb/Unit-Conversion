@@ -15,7 +15,7 @@ body{
 
 
 #input-section{
-    background: #6943FF;
+    background: #435fff;
     padding: 15px 0;
     display: flex;
     flex-direction: column;
@@ -28,7 +28,7 @@ body{
     box-sizing: border-box;
     height: 80px;
     background: none;
-    border: 2px solid #B295FF;
+    border: 2px solid #95b1ff;
     border-radius: 10px;
     color: inherit;
     font-size: 50px;
@@ -40,10 +40,10 @@ body{
 button.white-back-btn,
 button.white-back-btn:active {
     background: #ffffff;
-    color: #6943FF;
+    color: #435fff;
     padding: 10px 15px;
     width: 100px;
-    border:1px solid #B295FF;
+    border:1px solid #95b1ff;
     border-radius: 4px;
     box-sizing: border-box;
     font-weight: 600;
@@ -52,7 +52,7 @@ button.white-back-btn:active {
 }
 .white-back-btn:hover{
     cursor: pointer;
-    background: #6943FF;
+    background: #435fff;
     color: #ffffff;
     transition-duration: 200ms;
 }
@@ -78,5 +78,5 @@ button.white-back-btn:active {
 }
 
 .result-title{
-    color: #5A537B;
+    color: #53617b;
 }
