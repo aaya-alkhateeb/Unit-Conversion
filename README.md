@@ -18,6 +18,6 @@ A simple web-based unit converter that allows users to convert values between me
 2. Click "Convert".
 3. View the results below, showing both directions of conversion.
 
-## 🛠️ Validation
+## Validation
 - Accepts numbers between 0 and 1,000,000,000.
 - Automatically corrects invalid inputs and displays helpful warnings.
